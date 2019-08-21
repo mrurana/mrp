@@ -1,46 +1,47 @@
 store_code,location,geo_code
-1,Alberta,CA-AB
-2,British Columbia,CA-BC
-3,Manitoba,CA-MB
-4,New Brunswick,CA-NB
-5,Newfoundland and Labrador,CA-NL
-6,Nova Scotia,CA-NS
+0,Canada,CA
+1,Ontario,CA-ON
+2,Ontario,CA-ON
+3,Ontario,CA-ON
+4,Ontario,CA-ON
+5,Ontario,CA-ON
+6,Ontario,CA-ON
 7,Ontario,CA-ON
-8,Prince Edward Island,CA-PE
-9,Quebec,CA-QC
-10,Saskatchewan,CA-SK
-11,Northwest Territories,CA-NT
-12,Nunavut,CA-NU
-13,Yukon,CA-YT
-14,Alberta,CA-AB
-15,British Columbia,CA-BC
-16,Manitoba,CA-MB
-17,New Brunswick,CA-NB
-18,Newfoundland and Labrador,CA-NL
-19,Nova Scotia,CA-NS
-20,Ontario,CA-ON
-21,Prince Edward Island,CA-PE
-22,Quebec,CA-QC
-23,Saskatchewan,CA-SK
-24,Northwest Territories,CA-NT
-25,Nunavut,CA-NU
-26,Yukon,CA-YT
-27,Alberta,CA-AB
-28,British Columbia,CA-BC
-29,Manitoba,CA-MB
-30,New Brunswick,CA-NB
-31,Newfoundland and Labrador,CA-NL
-32,Nova Scotia,CA-NS
-33,Ontario,CA-ON
-34,Prince Edward Island,CA-PE
-35,Quebec,CA-QC
-36,Saskatchewan,CA-SK
-37,Northwest Territories,CA-NT
-38,Nunavut,CA-NU
-39,Yukon,CA-YT
-40,Alberta,CA-AB
-41,British Columbia,CA-BC
+8,Ontario,CA-ON
+9,Ontario,CA-ON
+10,Quebec,CA-QC
+11,Quebec,CA-QC
+12,Quebec,CA-QC
+13,Quebec,CA-QC
+14,Quebec,CA-QC
+15,Quebec,CA-QC
+16,Quebec,CA-QC
+17,Quebec,CA-QC
+18,Quebec,CA-QC
+19,British Columbia,CA-BC
+20,British Columbia,CA-BC
+21,British Columbia,CA-BC
+22,British Columbia,CA-BC
+23,British Columbia,CA-BC
+24,British Columbia,CA-BC
+25,British Columbia,CA-BC
+26,British Columbia,CA-BC
+27,British Columbia,CA-BC
+28,Alberta,CA-AB
+29,Alberta,CA-AB
+30,Alberta,CA-AB
+31,Alberta,CA-AB
+32,Alberta,CA-AB
+33,Alberta,CA-AB
+34,Alberta,CA-AB
+35,Alberta,CA-AB
+36,Alberta,CA-AB
+37,Manitoba,CA-MB
+38,Manitoba,CA-MB
+39,Manitoba,CA-MB
+40,Manitoba,CA-MB
+41,Manitoba,CA-MB
 42,Manitoba,CA-MB
-43,New Brunswick,CA-NB
-44,Newfoundland and Labrador,CA-NL
-45,Nova Scotia,CA-NS
+43,Manitoba,CA-MB
+44,Manitoba,CA-MB
+45,Manitoba,CA-MB

@@ -1,4 +1,5 @@
 item_code,item_name
+0,all items
 1,chicken drumstick
 2,sweet potato
 3,chocolate ice cream
@@ -18,7 +19,7 @@ item_code,item_name
 17,caesar dressing
 18,ranch dressing
 19,enchilada sauce
-20,french onion dip
+20,milk
 21,honey
 22,hot sauce
 23,hummus
@@ -34,7 +35,7 @@ item_code,item_name
 33,salsa
 34,butter
 35,cheddar cheese
-36,grated parmesan cheese
+36,parmesan cheese
 37,mozzarella cheese
 38,ricotta cheese
 39,greek yogurt
@@ -45,15 +46,15 @@ item_code,item_name
 44,chili
 45,tomato soup
 46,frozen burgers
-47,frozen burrito
-48,frozen chicken nuggets
-49,frozen dinner rolls
-50,frozen french fries
-51,frozen pizza
-52,frozen taquitos
+47,chicken wings
+48,chicken nuggets
+49,egg roll
+50,french fries
+51,pizza
+52,taquitos
 53,hot dogs
 54,sausage
-55,gluten-free pasta
+55,italian pasta
 56,pasta
 57,macaroni and cheese
 58,ravioli
@@ -63,17 +64,17 @@ item_code,item_name
 62,veggie burgers
 63,almond milk
 64,apple juice
-65,bloody mary mix
-66,margarita mix
-67,seltzer
+65,canola oil
+66,vegetable oil
+67,coconut
 68,coconut water
 69,coffee
 70,lemonade
 71,orange juice
-72,barbecue potato chips
-73,graham crackers
-74,sour cream and onion potato chips
-75,cheese crackers
+72,potato chips
+73,pringles
+74,onion
+75,doritos
 76,potato chips
 77,protein bar
 78,granola
@@ -86,16 +87,15 @@ item_code,item_name
 85,chocolate chips
 86,caramel sauce
 87,chocolate sauce
-88,chocolate ice cream
-89,mint ice cream
+88,strawberry
+89,mint
 90,vanilla ice cream
-91,ice cream cones
-92,cinnamon roll dough
-93,sugar cookie dough
-94,chocolate cake mix
-95,vanilla cake mix
-96,birthday cake mix
-97,chocolate frosting
-98,vanilla frosting
-99,cookie dough
-100,chocolate chip cookies
+91,apple
+92,cinnamon roll
+93,oats
+94,chocolate cake
+95,vanilla cake
+96,birthday cake
+97,marshmello
+98,green tea
+99,tea
